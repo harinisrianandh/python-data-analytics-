@@ -1,15 +1,15 @@
-Hi, I'm Harini 👋
+Hi, I'm Harini 
 
-🎓 AI & Data Science Student
+AI & Data Science Student
 
-💻 Aspiring Data Analyst
+Aspiring Data Analyst
 
 About Me
 
-- 🌱 Currently learning Python and Data Analytics.
-- 📊 Interested in Data Analysis and Visualization.
-- 🚀 Building my skills through practical projects.
-- 🎯 Goal: To become a Data Analyst.
+Currently learning Python and Data Analytics.
+Interested in Data Analysis and Visualization.
+Building my skills through practical projects.
+Goal: To become a Data Analyst.
 
 Skills
 
